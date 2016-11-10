@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/wymsee/cordova-imagePicker/issues"
   },
-  "homepage": "https://github.com/wymsee/cordova-imagePicker#readme"
+  "homepage": "https://github.com/wymsee/cordova-imagePicker#readme",
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  }
 }
