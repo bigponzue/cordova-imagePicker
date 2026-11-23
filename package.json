@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/wymsee/cordova-imagePicker#readme",
   "scripts": {
-    "preinstall": "node preinstall.js"
+    
   }
 }
